@@ -1,0 +1,3 @@
+CREATE DATABASE BancoDadosFmu20212;
+
+USE BancoDadosFmu20212;
