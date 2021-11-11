@@ -1,0 +1,3 @@
+CREATE DATABASE	BancoDadosFMU20212n;
+
+

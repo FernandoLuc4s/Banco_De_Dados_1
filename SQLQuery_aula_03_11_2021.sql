@@ -1,0 +1,1 @@
+EXEC sp_rename 'grp01.MATRICULA.acrondisciplina', 'sigladisciplina', 'COLUMN';

@@ -1,0 +1,1 @@
+ALTER TABLE grp01.CURSO ALTER COLUMN notareconhecimento int not null;
